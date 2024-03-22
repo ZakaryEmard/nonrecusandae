@@ -1,0 +1,27 @@
+{
+  "name": "nonrecusandae",
+  "version": "1.0.0",
+  "description": "A set of tools for working with Web3 and Ethereum smart contracts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3",
+    "ethereum",
+    "rerum"
+  ],
+  "author": "KathryneHaag",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZakaryEmard/nonrecusandae.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZakaryEmard/nonrecusandae.git/issues"
+  },
+  "homepage": "https://github.com/ZakaryEmard/nonrecusandae.git"
+}
